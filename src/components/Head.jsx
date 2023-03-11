@@ -15,9 +15,9 @@ function Head() {
         />
       </div>
       <div class="head-nav">
-        <a href="#Login">Login</a>
+        <a href="#Login">Sign-in</a>
         <div className="divider"></div>
-        <a href="#Register">Register</a>
+        <a href="#Register">Sign-up</a>
       </div>
     </div>
   );

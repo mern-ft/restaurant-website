@@ -5,7 +5,9 @@ function Master() {
   return (
     <div className="big-main">
       <div className="big-text">
-        CHEESE BURGER<br/>Flat 50% off 
+        CHEESE <span>BURGER</span>
+        <br />
+        If you ask us,<br/> it just tastes better
       </div>
       <img className="big-img" src={cb} alt="cb" />
     </div>
